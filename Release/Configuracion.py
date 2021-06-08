@@ -1,5 +1,5 @@
 
-# Definición de parámetros de configuración
+# Definición de parámetros de configuración rea
 
 PeriodoDePoleo = 30000 # Milisegundos entre cada poleo de mediciones
 AlmacenamientoLocal = False # Define si los datos se alamacenarán localmente o no
